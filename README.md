@@ -64,8 +64,8 @@
     * 役割：管理者、開発者
     * 担当：進捗管理、要求分析、基本設計、詳細設計、テスト
     * 技術：
-        * frontend：Next.js、Typescript、GraphQL、Apollo
-        * backend：Express、Typescript、GraphQL、TypeORM、Apollo、Jest
+        * frontend：Next.js、Typescript
+        * backend：Express、Typescript、TypeORM、Jest
         * Linux
         * Docker
     * やったこと・難しかったこと
